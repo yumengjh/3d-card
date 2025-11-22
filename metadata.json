@@ -1,0 +1,5 @@
+{
+  "name": "HoloCard 3D Showcase",
+  "description": "A high-performance, interactive 3D card inspection effect similar to Steam Trading Cards, featuring holographic sheen, parallax depth, and gyroscope-like physics using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
